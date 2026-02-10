@@ -18,3 +18,5 @@ Features of the Stock Portfolio Tracker :
 4.Option to save results to .txt or .csv
 
 5.Beginner-friendly and easy to modify
+
+By Harshith Chintha
